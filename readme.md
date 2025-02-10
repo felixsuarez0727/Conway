@@ -34,7 +34,7 @@ Finally, run the app executing this command for easy Run
 python conway_gui.py
 ```
 
-Finally, run the app executing this command for easy Run
+Finally, run the app executing this command for complex game Run
 ```bash
 python conway_gui_complex.py
 ```
