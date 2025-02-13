@@ -36,7 +36,7 @@ python conway_gui.py
 
 Check how the conway_gui.py looks running!
 
-![simple conway gif](https://github.com/felixsuarez0727/Conway/blob/main/animacion_conway_gui.gif?raw=true)
+![simple conway gif](https://github.com/felixsuarez0727/Conway/blob/main/animation_conway_gui.gif?raw=true)
 
 
 Finally, run the app executing this command for complex game Run
@@ -46,7 +46,7 @@ python conway_gui_complex.py
 
 Check how the conway_gui_complex.py looks running!
 
-![complex conway gif](https://github.com/felixsuarez0727/Conway/blob/main/animacion_conway_gui_complex.gif?raw=true)
+![complex conway gif](https://github.com/felixsuarez0727/Conway/blob/main/animation_conway_gui_complex.gif?raw=true)
 
 
 Remember to set up values properly before pressing "Start Game"
