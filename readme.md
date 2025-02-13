@@ -2,8 +2,8 @@
 
 This is the a little Conway's Game of Life implemented on Python and QtPY.
 This project holds 2 executable files:
-conway_gui.py: For easy running mode.
-conway_gui_complex.py: For a more complex running mode where define further settings.
+* conway_gui.py: For easy running mode.
+* conway_gui_complex.py: For a more complex running mode where define further settings.
 
 ## Requirements ❗️
 
