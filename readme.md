@@ -44,7 +44,7 @@ Finally, run the app executing this command for complex game Run
 python conway_gui_complex.py
 ```
 
-Check how the conway_gui.py looks running!
+Check how the conway_gui_complex.py looks running!
 
 ![complex conway gif](https://github.com/felixsuarez0727/Conway/blob/main/animacion_conway_gui_complex.gif?raw=true)
 
@@ -65,6 +65,8 @@ conway/
 ├── conway.py
 ├── conway_gui.py
 ├── conway_gui_complex.py
+├── animation_conway_gui.gif
+├── animation_conway_gui_complex.gif
 ├── custom_dialog.py
 ├── infinity.png
 ├── readme.md
