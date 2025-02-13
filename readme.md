@@ -1,6 +1,9 @@
 # Conway's Game of Life
 
 This is the a little Conway's Game of Life implemented on Python and QtPY.
+This project holds 2 executable files:
+conway_gui.py: For easy running mode.
+conway_gui_complex.py: For a more complex running mode where define further settings.
 
 ## Requirements ❗️
 
@@ -74,6 +77,7 @@ conway/
 └── worker.py
 ```
 ## Notes
-This is a basic implementation of the Conway's Game of Life.
-There is room for future features. 
+This is a implementation of the Conway's Game of Life.
+This project holds two versions of the Conway's Game of Life, one is kind of simple while the other is complex!
+Complex game mode, where you can define further settings and see what happens!
 Stick around for further updates!
