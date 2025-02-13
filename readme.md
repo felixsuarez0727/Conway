@@ -34,10 +34,20 @@ Finally, run the app executing this command for easy Run
 python conway_gui.py
 ```
 
+Check how the conway_gui.py looks running!
+
+![simple conway gif](https://github.com/felixsuarez0727/Conway/blob/main/animacion_conway_gui.gif?raw=true)
+
+
 Finally, run the app executing this command for complex game Run
 ```bash
 python conway_gui_complex.py
 ```
+
+Check how the conway_gui.py looks running!
+
+![complex conway gif](https://github.com/felixsuarez0727/Conway/blob/main/animacion_conway_gui_complex.gif?raw=true)
+
 
 Remember to set up values properly before pressing "Start Game"
 * Rows: Number of rows for the matrix.
